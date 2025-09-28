@@ -1,4 +1,4 @@
-# Curso Introdutório de Machine Learning com Scikit-learn e Análise de Dados com Matplotlib
+# Estudo Introdutório de Machine Learning com Scikit-learn e Análise de Dados com Matplotlib
 
 ## 📚 Sobre o Estudo
 
